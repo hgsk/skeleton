@@ -12,9 +12,459 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-11-22T14:38:09.103+09:00
-  initializedAtString: 2018-11-22T14:13:59.056+09:00
+  lastUpdatedAtString: 2018-11-22T16:36:42.229+09:00
+  initializedAtString: 2018-11-22T16:36:42.229+09:00
   log:
+  - commitID: 89dd8a4b7b77c9924f73d276bff1b535cdca6a6a
+    mergeA: 
+    mergeB: 
+    authorName: Ryosuke Hagihara
+    authorEmail: r-hagihara@infiniteloop.co.jp
+    commitEmail: r-hagihara@infiniteloop.co.jp
+    commitName: Ryosuke Hagihara
+    summary: add arts
+    description: add arts
+    timeString: 2018-11-22T16:36:41.000+09:00
+    commitTimeString: 2018-11-22T16:36:41.000+09:00
+    changes:
+    - path: Assets/Arts.meta
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts.meta
+      projectPath: Assets/Arts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/Platform.meta
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/Platform.meta
+      projectPath: Assets/Arts/Platform.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/Platform/Platform.prefab
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/Platform/Platform.prefab
+      projectPath: Assets/Arts/Platform/Platform.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/Platform/Platform.prefab.meta
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/Platform/Platform.prefab.meta
+      projectPath: Assets/Arts/Platform/Platform.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/Platform/Tilemap.controller
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/Platform/Tilemap.controller
+      projectPath: Assets/Arts/Platform/Tilemap.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/Platform/Tilemap.controller.meta
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/Platform/Tilemap.controller.meta
+      projectPath: Assets/Arts/Platform/Tilemap.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/Platform/platform.psd
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/Platform/platform.psd
+      projectPath: Assets/Arts/Platform/platform.psd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/Platform/platform.psd.meta
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/Platform/platform.psd.meta
+      projectPath: Assets/Arts/Platform/platform.psd.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/Platform/platform_0.asset
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/Platform/platform_0.asset
+      projectPath: Assets/Arts/Platform/platform_0.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/Platform/platform_0.asset.meta
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/Platform/platform_0.asset.meta
+      projectPath: Assets/Arts/Platform/platform_0.asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/Platform/platform_1.asset
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/Platform/platform_1.asset
+      projectPath: Assets/Arts/Platform/platform_1.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/Platform/platform_1.asset.meta
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/Platform/platform_1.asset.meta
+      projectPath: Assets/Arts/Platform/platform_1.asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/Platform/platform_2.asset
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/Platform/platform_2.asset
+      projectPath: Assets/Arts/Platform/platform_2.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/Platform/platform_2.asset.meta
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/Platform/platform_2.asset.meta
+      projectPath: Assets/Arts/Platform/platform_2.asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/Platform/platform_3.asset
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/Platform/platform_3.asset
+      projectPath: Assets/Arts/Platform/platform_3.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/Platform/platform_3.asset.meta
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/Platform/platform_3.asset.meta
+      projectPath: Assets/Arts/Platform/platform_3.asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/Platform/platform_4.asset
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/Platform/platform_4.asset
+      projectPath: Assets/Arts/Platform/platform_4.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/Platform/platform_4.asset.meta
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/Platform/platform_4.asset.meta
+      projectPath: Assets/Arts/Platform/platform_4.asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/bird.meta
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/bird.meta
+      projectPath: Assets/Arts/bird.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/bird/bird.prefab
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/bird/bird.prefab
+      projectPath: Assets/Arts/bird/bird.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/bird/bird.prefab.meta
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/bird/bird.prefab.meta
+      projectPath: Assets/Arts/bird/bird.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/bird/idle.anim
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/bird/idle.anim
+      projectPath: Assets/Arts/bird/idle.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/bird/idle.anim.meta
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/bird/idle.anim.meta
+      projectPath: Assets/Arts/bird/idle.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/bird/platform_2.controller
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/bird/platform_2.controller
+      projectPath: Assets/Arts/bird/platform_2.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/bird/platform_2.controller.meta
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/bird/platform_2.controller.meta
+      projectPath: Assets/Arts/bird/platform_2.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/human.meta
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/human.meta
+      projectPath: Assets/Arts/human.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/human/character.controller
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/human/character.controller
+      projectPath: Assets/Arts/human/character.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/human/character.controller.meta
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/human/character.controller.meta
+      projectPath: Assets/Arts/human/character.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/human/human.prefab
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/human/human.prefab
+      projectPath: Assets/Arts/human/human.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/human/human.prefab.meta
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/human/human.prefab.meta
+      projectPath: Assets/Arts/human/human.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/human/idle.anim
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/human/idle.anim
+      projectPath: Assets/Arts/human/idle.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/human/idle.anim.meta
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/human/idle.anim.meta
+      projectPath: Assets/Arts/human/idle.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/waepon.meta
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/waepon.meta
+      projectPath: Assets/Arts/waepon.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/waepon/platform_3.controller
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/waepon/platform_3.controller
+      projectPath: Assets/Arts/waepon/platform_3.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/waepon/platform_3.controller.meta
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/waepon/platform_3.controller.meta
+      projectPath: Assets/Arts/waepon/platform_3.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/waepon/rotate.anim
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/waepon/rotate.anim
+      projectPath: Assets/Arts/waepon/rotate.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/waepon/rotate.anim.meta
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/waepon/rotate.anim.meta
+      projectPath: Assets/Arts/waepon/rotate.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/waepon/weapon.prefab
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/waepon/weapon.prefab
+      projectPath: Assets/Arts/waepon/weapon.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Arts/waepon/weapon.prefab.meta
+      fullPath: /Users/hgsk/Skeleton/Assets/Arts/waepon/weapon.prefab.meta
+      projectPath: Assets/Arts/waepon/weapon.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/SampleScene.unity
+      fullPath: /Users/hgsk/Skeleton/Assets/Scenes/SampleScene.unity
+      projectPath: Assets/Scenes/SampleScene.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Temp/ProcessJobs/4123cd64851fc32a264cf6f67b0ef1b4.bakert
+      fullPath: /Users/hgsk/Skeleton/Temp/ProcessJobs/4123cd64851fc32a264cf6f67b0ef1b4.bakert
+      projectPath: Temp/ProcessJobs/4123cd64851fc32a264cf6f67b0ef1b4.bakert
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp/UnityTempFile-18f77d71521a44a68a1e7b75c98ef795
+      fullPath: /Users/hgsk/Skeleton/Temp/UnityTempFile-18f77d71521a44a68a1e7b75c98ef795
+      projectPath: Temp/UnityTempFile-18f77d71521a44a68a1e7b75c98ef795
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp/UnityTempFile-485c0f20362e542bbb77898ba0a048bb
+      fullPath: /Users/hgsk/Skeleton/Temp/UnityTempFile-485c0f20362e542bbb77898ba0a048bb
+      projectPath: Temp/UnityTempFile-485c0f20362e542bbb77898ba0a048bb
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp/UnityTempFile-5822be707fc92476f911fc46deda797d
+      fullPath: /Users/hgsk/Skeleton/Temp/UnityTempFile-5822be707fc92476f911fc46deda797d
+      projectPath: Temp/UnityTempFile-5822be707fc92476f911fc46deda797d
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp/UnityTempFile-62f8ddca94f0b4508b9852dbcec31e08
+      fullPath: /Users/hgsk/Skeleton/Temp/UnityTempFile-62f8ddca94f0b4508b9852dbcec31e08
+      projectPath: Temp/UnityTempFile-62f8ddca94f0b4508b9852dbcec31e08
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp/UnityTempFile-6f4f74608a67a47d39d606571ab59278
+      fullPath: /Users/hgsk/Skeleton/Temp/UnityTempFile-6f4f74608a67a47d39d606571ab59278
+      projectPath: Temp/UnityTempFile-6f4f74608a67a47d39d606571ab59278
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp/UnityTempFile-795a49dd075c74ed8850c6fc49742ef7
+      fullPath: /Users/hgsk/Skeleton/Temp/UnityTempFile-795a49dd075c74ed8850c6fc49742ef7
+      projectPath: Temp/UnityTempFile-795a49dd075c74ed8850c6fc49742ef7
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp/UnityTempFile-88dd5a046d4784d3ca450452b58a7aa6
+      fullPath: /Users/hgsk/Skeleton/Temp/UnityTempFile-88dd5a046d4784d3ca450452b58a7aa6
+      projectPath: Temp/UnityTempFile-88dd5a046d4784d3ca450452b58a7aa6
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp/UnityTempFile-8f3040161a3c94cad8679d7f6feaa5db
+      fullPath: /Users/hgsk/Skeleton/Temp/UnityTempFile-8f3040161a3c94cad8679d7f6feaa5db
+      projectPath: Temp/UnityTempFile-8f3040161a3c94cad8679d7f6feaa5db
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp/UnityTempFile-8f82b9b080eed4ae98fda617e2acdfd5
+      fullPath: /Users/hgsk/Skeleton/Temp/UnityTempFile-8f82b9b080eed4ae98fda617e2acdfd5
+      projectPath: Temp/UnityTempFile-8f82b9b080eed4ae98fda617e2acdfd5
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp/UnityTempFile-9c82ce13673ba43c7ab19b21bc951218
+      fullPath: /Users/hgsk/Skeleton/Temp/UnityTempFile-9c82ce13673ba43c7ab19b21bc951218
+      projectPath: Temp/UnityTempFile-9c82ce13673ba43c7ab19b21bc951218
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp/UnityTempFile-a3374bbffca994f72b144ab259b6d2db
+      fullPath: /Users/hgsk/Skeleton/Temp/UnityTempFile-a3374bbffca994f72b144ab259b6d2db
+      projectPath: Temp/UnityTempFile-a3374bbffca994f72b144ab259b6d2db
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp/UnityTempFile-a52242d2ba30d4753b8742afed4c5cd7
+      fullPath: /Users/hgsk/Skeleton/Temp/UnityTempFile-a52242d2ba30d4753b8742afed4c5cd7
+      projectPath: Temp/UnityTempFile-a52242d2ba30d4753b8742afed4c5cd7
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp/UnityTempFile-a94da9bcb75b74cbcaef183451a1713f
+      fullPath: /Users/hgsk/Skeleton/Temp/UnityTempFile-a94da9bcb75b74cbcaef183451a1713f
+      projectPath: Temp/UnityTempFile-a94da9bcb75b74cbcaef183451a1713f
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp/UnityTempFile-cbf10a423b33045169570c61c65bbdb6
+      fullPath: /Users/hgsk/Skeleton/Temp/UnityTempFile-cbf10a423b33045169570c61c65bbdb6
+      projectPath: Temp/UnityTempFile-cbf10a423b33045169570c61c65bbdb6
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp/UnityTempFile-cfb7a6604dc4545bd9f90cf06aec4a15
+      fullPath: /Users/hgsk/Skeleton/Temp/UnityTempFile-cfb7a6604dc4545bd9f90cf06aec4a15
+      projectPath: Temp/UnityTempFile-cfb7a6604dc4545bd9f90cf06aec4a15
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp/UnityTempFile-d592a06dbbe5c44cea5b19a055f549d1
+      fullPath: /Users/hgsk/Skeleton/Temp/UnityTempFile-d592a06dbbe5c44cea5b19a055f549d1
+      projectPath: Temp/UnityTempFile-d592a06dbbe5c44cea5b19a055f549d1
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp/UnityTempFile-db22662af60b14a3dbb509ac94adc339
+      fullPath: /Users/hgsk/Skeleton/Temp/UnityTempFile-db22662af60b14a3dbb509ac94adc339
+      projectPath: Temp/UnityTempFile-db22662af60b14a3dbb509ac94adc339
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp/UnityTempFile-dc0bb131a7fc14571a8eae49d8598f70
+      fullPath: /Users/hgsk/Skeleton/Temp/UnityTempFile-dc0bb131a7fc14571a8eae49d8598f70
+      projectPath: Temp/UnityTempFile-dc0bb131a7fc14571a8eae49d8598f70
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp/UnityTempFile-f005cd83537484165b950ad50a098e14
+      fullPath: /Users/hgsk/Skeleton/Temp/UnityTempFile-f005cd83537484165b950ad50a098e14
+      projectPath: Temp/UnityTempFile-f005cd83537484165b950ad50a098e14
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp/UnityTempFile-f849537fb3e414ad794cc83a538583e8
+      fullPath: /Users/hgsk/Skeleton/Temp/UnityTempFile-f849537fb3e414ad794cc83a538583e8
+      projectPath: Temp/UnityTempFile-f849537fb3e414ad794cc83a538583e8
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp/UnityTempFile-f9c810339f9eb494bb7225f4a67f46e1
+      fullPath: /Users/hgsk/Skeleton/Temp/UnityTempFile-f9c810339f9eb494bb7225f4a67f46e1
+      projectPath: Temp/UnityTempFile-f9c810339f9eb494bb7225f4a67f46e1
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp/__Backupscenes/0.backup
+      fullPath: /Users/hgsk/Skeleton/Temp/__Backupscenes/0.backup
+      projectPath: Temp/__Backupscenes/0.backup
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 81c288672acf5731e84f41ce818ff1b9e9ce23b7
+    mergeA: 
+    mergeB: 
+    authorName: Ryosuke Hagihara
+    authorEmail: r-hagihara@infiniteloop.co.jp
+    commitEmail: r-hagihara@infiniteloop.co.jp
+    commitName: Ryosuke Hagihara
+    summary: fix scene
+    description: fix scene
+    timeString: 2018-11-22T14:38:51.000+09:00
+    commitTimeString: 2018-11-22T14:38:51.000+09:00
+    changes:
+    - path: Assets/Scenes/SampleScene.unity
+      fullPath: /Users/hgsk/Skeleton/Assets/Scenes/SampleScene.unity
+      projectPath: Assets/Scenes/SampleScene.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/CrashedAssetImports.txt
+      fullPath: /Users/hgsk/Skeleton/Library/CrashedAssetImports.txt
+      projectPath: Library/CrashedAssetImports.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library/assetDatabase3
+      fullPath: /Users/hgsk/Skeleton/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /Users/hgsk/Skeleton/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/hgsk/Skeleton/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/hgsk/Skeleton/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/hgsk/Skeleton/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/hgsk/Skeleton/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: a128b060e0dadf1efd7147437f96670c6441c428
     mergeA: 
     mergeB: 
