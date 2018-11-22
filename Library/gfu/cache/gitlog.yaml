@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-11-22T14:37:44.200+09:00
+  lastUpdatedAtString: 2018-11-22T14:38:09.103+09:00
   initializedAtString: 2018-11-22T14:13:59.056+09:00
   log:
-  - commitID: c704b95affb6466df582f918ab670729519889d5
+  - commitID: a128b060e0dadf1efd7147437f96670c6441c428
     mergeA: 
     mergeB: 
     authorName: Ryosuke Hagihara
@@ -25,7 +25,7 @@ MonoBehaviour:
     summary: init
     description: init
     timeString: 2018-11-22T14:37:23.000+09:00
-    commitTimeString: 2018-11-22T14:37:23.000+09:00
+    commitTimeString: 2018-11-22T14:38:05.000+09:00
     changes:
     - path: Assets/Plugins.meta
       fullPath: /Users/hgsk/Skeleton/Assets/Plugins.meta
@@ -474,12 +474,6 @@ MonoBehaviour:
     - path: Library/BuildSettings.asset
       fullPath: /Users/hgsk/Skeleton/Library/BuildSettings.asset
       projectPath: Library/BuildSettings.asset
-      originalPath: 
-      status: 4
-      staged: 0
-    - path: Library/CrashedAssetImports.txt
-      fullPath: /Users/hgsk/Skeleton/Library/CrashedAssetImports.txt
-      projectPath: Library/CrashedAssetImports.txt
       originalPath: 
       status: 4
       staged: 0
